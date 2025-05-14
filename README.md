@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- 🔭 I’m working as a backend freelancer on Fiverr<br>- ⚡ In my free time I work on my never ending side projects<br><br>Website: <a href="https://portfolio-4qgq7m02w-marius-jedinkus-projects.vercel.app/">Cwick :3<\a></p>
+<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- 🔭 I’m working as a backend freelancer on Fiverr<br>- ⚡ In my free time I work on my never ending side projects<br><br>Website: <a href="https://portfolio-4qgq7m02w-marius-jedinkus-projects.vercel.app/">Cwick :3</a></p>
 
 ###
 
@@ -49,12 +49,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zedMar65&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
