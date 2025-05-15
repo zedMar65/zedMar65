@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- 🔭 I’m working as a backend freelancer on Fiverr<br>- ⚡ In my free time I work on my never ending side projects<br><br>Website: <a href="https://portfolio-4qgq7m02w-marius-jedinkus-projects.vercel.app](https://portfolio-marius-jedinkus-projects.vercel.app/">Cwick :3</a></p>
+<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- 🔭 I’m working as a backend freelancer on Fiverr<br>- ⚡ In my free time I work on my never ending side projects<br><br>Website: <a href="https://portfolio-marius-jedinkus-projects.vercel.app/">Cwick :3</a></p>
 
 ###
 
