@@ -8,7 +8,7 @@
   <a href="www.linkedin.com/in/marius-jedinkus-7067212a5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/690893482218225735" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/?authuser=marius.jedinkus@gmail.com" target="_blank">
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Awawawawawaa :3</h1>
 
 ###
 
@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- 🔭 I’m working as a backend freelancer on Fiverr<br>- ⚡ In my free time I work on my never ending side projects<br><br>Website: <a href="https://portfolio-marius-jedinkus-projects.vercel.app/">Cwick :3</a></p>
+<p align="left">I'm Marius Jedinkus from Vinius, Lithuania<br><br>- Currently working as a backend freelancer on Fiverr<br>- Visit linkeding profile for employment related info<br>- In my free time I work on my never ending side projects<br>- Love being a furry femwoy :3<br>- <a href="https://portfolio-marius-jedinkus-projects.vercel.app/">Website -w-</a></p>
+
+###
+
+<p align="center"></p>
 
 ###
 
@@ -42,13 +46,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zedMar65&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
